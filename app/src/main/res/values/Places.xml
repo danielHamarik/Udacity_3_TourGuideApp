@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Nyhav, Copenhagen-->
+    <string name="nyhavn_title">Nyhavn</string>
+    <string name="nyhavn_location">Copenhagen, Denmark</string>
+    <string name="nyhavn_address">Nyhavn 1-71, 1051 København</string>
+    <string name="nyhavn_open">Mon-Sun, 24/7</string>
+    <string name="nyhavn_web"><u>http://www.nyhavn.com</u></string>
+    <string name="nyhavn_desc">Nyhavn is the perfect place to end a long day. Have dinner at one of the cosy restaurants or do like the locals and buy a beer from a nearby store and rest your feet at the quayside.</string>
+    <string name="nyhavn_history">Nyhavn was originally a busy commercial port where ships from all over the world would dock. The area was packed with sailors, ladies of pleasure, pubs and alehouses.
+        Today the beautiful old houses have been renovated and classy restaurants dominate the old port. Nyhavn is filled with people enjoying the relaxed atmosphere by the canal, jazz music and great food.
+        No. 9, Nyhavn, is the oldest house in the area dating back to 1681. The design of the house has not been altered since that time.
+        Many of the houses lining the quays of Nyhavn have been the homes of prominent artists.</string>
+    <string name="nyhavn_lat">55.6806</string>
+    <string name="nyhavn_lon">12.5875</string>
+
+    <!--Tivoli Gardens, Copenhagen-->
+    <string name="tivoli_title">Tivoli Gardens</string>
+    <string name="tivoli_location">Copenhagn, Denmark</string>
+    <string name="tivoli_address">Vesterbroade 3, 1630 København</string>
+    <string name="tivoli_open">Mon-Sat, 08:00 - 18:00</string>
+    <string name="tivoli_web"><u>https://www.tivoli.dk/en</u></string>
+    <string name="tivoli_desc">Tivoli Gardens is a famous amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world.
+        With 4.733 million visitors in 2015, Tivoli is the second-most popular seasonal theme park in the world, the most-visited theme park in Scandinavia and the fourth most-visited in Europe</string>
+    <string name="tivoli_history">Tivoli Gardens was founded in 1843 and has become a national treasure and an international attraction. Fairy tale writer Hans Christian Andersen visited many times, as did Walt Disney and many other celebrities, who all fell in love with the gardens.
+        Part of Tivoli Gardens\' secret is that there is something for everyone. The scenery is beautiful with exotic architecture, historic buildings and lush gardens. At night, thousands of coloured lights create a fairy tale atmosphere that is completely unique.</string>
+    <string name="tivoli_lat">55.67376</string>
+    <string name="tivoli_lon">12.5681</string>
+
+    <!--National Aquarium Denmark, Den Blå Planet-->
+    <string name="aquarium_title">Den Blå Planet</string>
+    <string name="aquarium_location">Copenhagen, Denmark</string>
+    <string name="aquarium_address">Jacob Fortlingsvej 1, 2770 Kastrup</string>
+    <string name="aquarium_open">Mon-Sun, 09:00 - 20:00</string>
+    <string name="aquarium_web"><u>http://www.denblaaplanet.dk</u></string>
+    <string name="aquarium_desc">National Aquarium Denmark, Den Blå Planet has water on all side and is intended to give the visitors a feeling of being under water. The new building has five "arms" from the center of the aquarium. That way the guests can choose their own way around the aquarium to see the exotic animals.</string>
+    <string name="aquarium_history">Experience the Ocean Tank, which is the biggest aquarium at National Aquarium Denmark, Den Blå Planet, where hammerhead sharks swim together with rays and moray eels in four millions litres azure sea water.
+        The Coral Reef shows colourful fish and other animals that live in the coral.
+        In the area, Amazonas, you will find butterflies and birds flying around. You can experience four aquariums from above or from the water level. Under the big waterfall, 3,000 piranhas and anacondas swim.</string>
+    <string name="aquarium_lat">55.6381</string>
+    <string name="aquarium_lon">12.6561</string>
+
+    <!--Frederiksborg Castle-->
+    <string name="frederiksborg_title">Frederiksborg Castle</string>
+    <string name="frederiksborg_location">Copenhagen, Denmark</string>
+    <string name="frederiksborg_address">Møntportvejen 10, 3400 Hillerød</string>
+    <string name="frederiksborg_open">Mon-Fri, 10:00 - 16:00</string>
+    <string name="frederiksborg_web"><u>http://www.frederiksborgslot.dk</u></string>
+    <string name="frederiksborg_desc">Frederiksborg Palace is situated on three islets in the castle lake in Hillerød, north of Copenhagen. The palace, which is surrounded by the beautiful Frederiksborg Palace Garden, was built in the Dutch Renaissance style at the beginning of the 1600s by King Christian 4.</string>
+    <string name="frederiksborg_history">The palace was built in Dutch Renaissance style by King Christian 4 in the 17th century. After a devastating fire in the middle of the 19th century, the palace was rebuilt by the owner of the Carlsberg Breweries, J. C. Jacobsen.
+        The palace chapel survived when the rest of the palace burnt down in 1859 and today it stands as in Christian 4\'s time.
+        The Palace Garden was laid out as a romantic landscaped garden. In the garden you will find King Frederik 2\'s small Bath House Palace (Badstueslot) which is occasionally used by the Royal Family for hunt lunches. </string>
+    <string name="frederiksborg_lat">55.9350</string>
+    <string name="frederiksborg_lon">12.3013</string>
+
+    <!--Skagen-->
+    <string name="skagen_title">Skagen</string>
+    <string name="skagen_location">Skagen, Denmark</string>
+    <string name="skagen_address">Skagen, 9990</string>
+    <string name="skagen_open">Mon-Sun, 24/7</string>
+    <string name="skagen_web"><u>http://www.skagen.dk</u></string>
+    <string name="skagen_desc">The beaches are beautiful with whiter than white sand and the sea water is clear and inviting. City life blooms in the summer, but fun events take place in all seasons. Visit the inspiring museums and dwell at the world famous paintings by artists such as Michael and Anna Ancher and P.S. Krøyer.
+        The nature in and around the city is truly unique, and \"The meeting of the seas\" where Denmark ends - is a must when you are here.</string>
+    <string name="skagen_history">Skagen was granted the privileges of a royal borough in 1413. Fishing was responsible for creating the town’s wealth,helped in no small measure by its dutyfree status, despite the fact that the town didn’t have a harbour and the boats had to be pulled up onto the beach.
+        In the latter part of the 19th century the population began to recover once more. The railway from Frederikshavn to Skagen was established in 1890 and the town got its first harbour in 1907.</string>
+    <string name="skagen_lat">57.7250</string>
+    <string name="skagen_lon">10.5792</string>
+
+    <!--ARoS Aarhus Art Museum-->
+    <string name="aros_title">ARoS Museum</string>
+    <string name="aros_location">Aarhus, Denmark</string>
+    <string name="aros_address">Aros Allé 2, 8000 Aarhus C</string>
+    <string name="aros_open">Mon-Sun, 08:00 - 21:00</string>
+    <string name="aros_web"><u>http://en.aros.dk</u></string>
+    <string name="aros_desc">ARoS is the main art museum in Aarhus and one of the largest museums in Northern Europe. On the roof of ARoS you can also visit Your rainbow panorama from here you can move around in a 150 meter long, circular panoramic path with 360º views of the surrounding city. ARoS has two Michelin-stars in the Michelin attraction\'s guide.</string>
+    <string name="aros_history">In the downstairs area you can enjoy the major special exhibitions, with the \'nine spaces\' presenting international art installations. On the upper floors house the museum\'s own collections of art from the 19th century up to the present day.</string>
+    <string name="aros_lat">56.1539</string>
+    <string name="aros_lon">10.1997</string>
+
+    <!--Legoland Billund-->
+    <string name="legoland_title">LEGOLAND Billund</string>
+    <string name="legoland_location">Billund, Denmark</string>
+    <string name="legoland_address">Nordmarksvej 9, 7190 Billund</string>
+    <string name="legoland_open">Mon-Sun, 08:00 - 21:00</string>
+    <string name="legoland_web"><u>http://www.LEGOLAND.dk</u></string>
+    <string name="legoland_desc">ALegoland Billund, the original Legoland park, opened on June 7, 1968 in Billund, Denmark. The park is located next to the original Lego factory and Denmark\'s second busiest airport Billund Airport. Over 1.9 million guests visited the park in 2011 and since the opening more than 50 million guests have visited the park. This makes Legoland the largest tourist attraction in Denmark outside of Copenhagen.</string>
+    <string name="legoland_history">The first Legoland was built next door to the Lego factory that was founded by Ole Kirk Christiansen in 1949. His son, Godtfred, took over the family business in 1958 when his father died and just two years later he bought out his three brothers. In 1968 Godfredt decided to open a 14-acre Legoland Park to promote his toy business.</string>
+    <string name="legoland_lat">55.7355</string>
+    <string name="legoland_lon">9.1268</string>
+
+</resources>

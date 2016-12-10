@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="description">Description</string>
+    <string name="history">History</string>
+
+    <string name="desc_location">Location</string>
+    <string name="desc_open">Opening hours</string>
+    <string name="desc_web">Website</string>
+</resources>
