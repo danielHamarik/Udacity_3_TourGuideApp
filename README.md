@@ -2,7 +2,7 @@
 
 Tour Guide Application
 
-This is an app wich displayes the most popular attractions in Denmark.
+Tour Guide application describes the most popular attractions in Denmark.
 Main focus of this app is on intents and material design.
 
 [![Game](https://github.com/danielHamarik/Udacity_3_TourGuideApp/blob/master/Screenshots/mainUI.png)](#features)
